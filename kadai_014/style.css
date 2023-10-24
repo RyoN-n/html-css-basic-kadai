@@ -1,0 +1,25 @@
+body{
+  font-family: "Arial", "Meiryo", "san-serif";
+  font-size: 20px;
+  text-align: center;
+  text-shadow: 1px 1px 2px gray;
+}
+
+h1{
+  font-family: "M PLUS Rounded 1c", "san-serif";
+  font-size: 2rem;
+  letter-spacing: 1.2rem;
+  border-bottom: solid 3px rgb(115,115,114);
+}
+
+.decoration1{
+  color: skyblue;
+}
+
+.decoration2{
+  color: rgb(255,192,203);
+}
+
+#parent{
+  font-weight: bold;
+}
